@@ -1,5 +1,5 @@
 # Coding-blocks-SOLUTIONS
-CODING BLOACKS  POPULAR QUESTIONS SOLUTIONS IN JAVA
+CODING BLOCKS  POPULAR QUESTIONS SOLUTIONS IN JAVA
 
 In this you will find solutions of coding blocks recursion assignment question solutions with easy approach ....
 You can also solve these questions for practice of competitve programming ..
